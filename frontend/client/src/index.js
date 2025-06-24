@@ -2,6 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+<<<<<<< HEAD
+=======
+import 'leaflet/dist/leaflet.css';
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

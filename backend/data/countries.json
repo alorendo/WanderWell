@@ -4,7 +4,11 @@
     "code": "MN",
     "language": "Mongolian",
     "avg_temp": "Unknown",
+<<<<<<< HEAD
     "currency": "Mongolian tögrög",
+=======
+    "currency": "Mongolian t\u00f6gr\u00f6g",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "capital": "Ulan Bator",
     "region": "Asia",
     "passport_friendly": true,
@@ -44,7 +48,11 @@
     "code": "TO",
     "language": "English, Tongan",
     "avg_temp": "Unknown",
+<<<<<<< HEAD
     "currency": "Tongan paʻanga",
+=======
+    "currency": "Tongan pa\u02bbanga",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "capital": "Nuku'alofa",
     "region": "Oceania",
     "passport_friendly": true,
@@ -83,6 +91,7 @@
     "name": "Sweden",
     "code": "SE",
     "language": "Swedish",
+<<<<<<< HEAD
     "avg_temp": "Unknown",
     "currency": "Swedish krona",
     "capital": "Stockholm",
@@ -95,6 +104,20 @@
       "unsafe_areas": []
     },
     "tourist_attractions": [],
+=======
+    "avg_temp": "46°F",
+    "currency": "Swedish krona",
+    "capital": "Stockholm",
+    "region": "Europe",
+    "passport_friendly": "Must be valid at least three months beyond the period of stay",
+    "budget": "$$$",
+    "food": ["Swedish meatballs", "Gravlax", "Pickled herring", "Kanelbulle"],
+    "safety": {
+      "safe_areas": ["Öckerö", "Lomma", "Hammarö"],
+      "unsafe_areas": ["Stockholm", "Gothenburg", "Malmo"]
+    },
+    "tourist_attractions": ["Vasa Museum", "Skansen", "Liseberg"],
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "transport_friendly": true,
     "image_url": "https://flagcdn.com/w320/se.png",
     "times_visited": 0
@@ -165,7 +188,11 @@
     "language": "French",
     "avg_temp": "Unknown",
     "currency": "CFP franc",
+<<<<<<< HEAD
     "capital": "Nouméa",
+=======
+    "capital": "Noum\u00e9a",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "region": "Oceania",
     "passport_friendly": true,
     "budget": "$$",
@@ -360,12 +387,21 @@
     "times_visited": 0
   },
   {
+<<<<<<< HEAD
     "name": "São Tomé and Príncipe",
     "code": "ST",
     "language": "Portuguese",
     "avg_temp": "Unknown",
     "currency": "São Tomé and Príncipe dobra",
     "capital": "São Tomé",
+=======
+    "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "code": "ST",
+    "language": "Portuguese",
+    "avg_temp": "Unknown",
+    "currency": "S\u00e3o Tom\u00e9 and Pr\u00edncipe dobra",
+    "capital": "S\u00e3o Tom\u00e9",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "region": "Africa",
     "passport_friendly": true,
     "budget": "$$",
@@ -385,7 +421,11 @@
     "language": "Romanian",
     "avg_temp": "Unknown",
     "currency": "Moldovan leu",
+<<<<<<< HEAD
     "capital": "Chișinău",
+=======
+    "capital": "Chi\u0219in\u0103u",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "region": "Europe",
     "passport_friendly": true,
     "budget": "$$",
@@ -680,7 +720,11 @@
     "times_visited": 0
   },
   {
+<<<<<<< HEAD
     "name": "Åland Islands",
+=======
+    "name": "\u00c5land Islands",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "code": "AX",
     "language": "Swedish",
     "avg_temp": "Unknown",
@@ -817,7 +861,11 @@
     "tourist_attractions": [],
     "transport_friendly": true,
     "image_url": "https://flagcdn.com/w320/ca.png",
+<<<<<<< HEAD
     "times_visited": 0
+=======
+    "times_visited": 1
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
   },
   {
     "name": "French Southern and Antarctic Lands",
@@ -825,7 +873,11 @@
     "language": "French",
     "avg_temp": "Unknown",
     "currency": "Euro",
+<<<<<<< HEAD
     "capital": "Port-aux-Français",
+=======
+    "capital": "Port-aux-Fran\u00e7ais",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "region": "Antarctic",
     "passport_friendly": true,
     "budget": "$$",
@@ -897,7 +949,11 @@
     "tourist_attractions": [],
     "transport_friendly": true,
     "image_url": "https://flagcdn.com/w320/bw.png",
+<<<<<<< HEAD
     "times_visited": 0
+=======
+    "times_visited": 1
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
   },
   {
     "name": "Mauritania",
@@ -925,7 +981,11 @@
     "language": "Berber, Hassaniya, Spanish",
     "avg_temp": "Unknown",
     "currency": "Algerian dinar, Moroccan dirham, Mauritanian ouguiya",
+<<<<<<< HEAD
     "capital": "El Aaiún",
+=======
+    "capital": "El Aai\u00fan",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "region": "Africa",
     "passport_friendly": true,
     "budget": "$$",
@@ -945,7 +1005,11 @@
     "language": "Chamorro, English, Spanish",
     "avg_temp": "Unknown",
     "currency": "United States dollar",
+<<<<<<< HEAD
     "capital": "Hagåtña",
+=======
+    "capital": "Hag\u00e5t\u00f1a",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "region": "Oceania",
     "passport_friendly": true,
     "budget": "$$",
@@ -1505,7 +1569,11 @@
     "language": "French",
     "avg_temp": "Unknown",
     "currency": "West African CFA franc",
+<<<<<<< HEAD
     "capital": "Lomé",
+=======
+    "capital": "Lom\u00e9",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "region": "Africa",
     "passport_friendly": true,
     "budget": "$$",
@@ -1582,7 +1650,11 @@
   {
     "name": "New Zealand",
     "code": "NZ",
+<<<<<<< HEAD
     "language": "English, Māori, New Zealand Sign Language",
+=======
+    "language": "English, M\u0101ori, New Zealand Sign Language",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "avg_temp": "Unknown",
     "currency": "New Zealand dollar",
     "capital": "Wellington",
@@ -1645,7 +1717,11 @@
     "language": "English, French",
     "avg_temp": "Unknown",
     "currency": "Central African CFA franc",
+<<<<<<< HEAD
     "capital": "Yaoundé",
+=======
+    "capital": "Yaound\u00e9",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "region": "Africa",
     "passport_friendly": true,
     "budget": "$$",
@@ -1662,7 +1738,11 @@
   {
     "name": "Cook Islands",
     "code": "CK",
+<<<<<<< HEAD
     "language": "English, Cook Islands Māori",
+=======
+    "language": "English, Cook Islands M\u0101ori",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "avg_temp": "Unknown",
     "currency": "Cook Islands dollar, New Zealand dollar",
     "capital": "Avarua",
@@ -1863,6 +1943,7 @@
     "name": "Italy",
     "code": "IT",
     "language": "Italian, Catalan",
+<<<<<<< HEAD
     "avg_temp": "Unknown",
     "currency": "Euro",
     "capital": "Rome",
@@ -1878,13 +1959,34 @@
     "transport_friendly": true,
     "image_url": "https://flagcdn.com/w320/it.png",
     "times_visited": 0
+=======
+    "avg_temp": "60°F",
+    "currency": "Euro",
+    "capital": "Rome",
+    "region": "Europe",
+    "passport_friendly": "Must be valid for at least 3 months beyond your planned date of departure",
+    "budget": "$$",
+    "food": ["Lasagna", "Risotta","Tiramisu", "Carbonara"],
+    "safety": {
+      "safe_areas": ["Florence", "Verona", "Rome"],
+      "unsafe_areas": ["Venice", "Milan", "Naples"]
+    },
+    "tourist_attractions": ["Colosseum", "Trevi Fountain", "Saint Peter's Basilica"],
+    "transport_friendly": true,
+    "image_url": "https://flagcdn.com/w320/it.png",
+    "times_visited": 26
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
   },
   {
     "name": "Uzbekistan",
     "code": "UZ",
     "language": "Russian, Uzbek",
     "avg_temp": "Unknown",
+<<<<<<< HEAD
     "currency": "Uzbekistani soʻm",
+=======
+    "currency": "Uzbekistani so\u02bbm",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "capital": "Tashkent",
     "region": "Asia",
     "passport_friendly": true,
@@ -1984,8 +2086,13 @@
     "code": "FO",
     "language": "Danish, Faroese",
     "avg_temp": "Unknown",
+<<<<<<< HEAD
     "currency": "Danish krone, Faroese króna",
     "capital": "Tórshavn",
+=======
+    "currency": "Danish krone, Faroese kr\u00f3na",
+    "capital": "T\u00f3rshavn",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "region": "Europe",
     "passport_friendly": true,
     "budget": "$$",
@@ -2023,6 +2130,7 @@
     "name": "India",
     "code": "IN",
     "language": "English, Hindi, Tamil",
+<<<<<<< HEAD
     "avg_temp": "Unknown",
     "currency": "Indian rupee",
     "capital": "New Delhi",
@@ -2035,6 +2143,20 @@
       "unsafe_areas": []
     },
     "tourist_attractions": [],
+=======
+    "avg_temp": "76°F",
+    "currency": "Indian rupee",
+    "capital": "New Delhi",
+    "region": "Asia",
+    "passport_friendly": "Must be valid for 6 months past the date of visa application",
+    "budget": "$",
+    "food": ["Palak Paneer", "Butter chicken", "Biryani", "Naan"],
+    "safety": {
+      "safe_areas": ["Kolkata", "Chennai", "Pondicherry"],
+      "unsafe_areas": ["Jammu", "Kashimir", "Manipur"]
+    },
+    "tourist_attractions": ["Taj Mahal", "Amber Palace", "Sri Harmandir Sahib"],
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "transport_friendly": true,
     "image_url": "https://flagcdn.com/w320/in.png",
     "times_visited": 0
@@ -2425,7 +2547,11 @@
     "language": "Portuguese",
     "avg_temp": "Unknown",
     "currency": "Brazilian real",
+<<<<<<< HEAD
     "capital": "Brasília",
+=======
+    "capital": "Bras\u00edlia",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "region": "Americas",
     "passport_friendly": true,
     "budget": "$$",
@@ -2444,7 +2570,11 @@
     "code": "PL",
     "language": "Polish",
     "avg_temp": "Unknown",
+<<<<<<< HEAD
     "currency": "Polish złoty",
+=======
+    "currency": "Polish z\u0142oty",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "capital": "Warsaw",
     "region": "Europe",
     "passport_friendly": true,
@@ -2465,7 +2595,11 @@
     "language": "Maldivian",
     "avg_temp": "Unknown",
     "currency": "Maldivian rufiyaa",
+<<<<<<< HEAD
     "capital": "Malé",
+=======
+    "capital": "Mal\u00e9",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "region": "Asia",
     "passport_friendly": true,
     "budget": "$$",
@@ -2724,7 +2858,11 @@
     "code": "WS",
     "language": "English, Samoan",
     "avg_temp": "Unknown",
+<<<<<<< HEAD
     "currency": "Samoan tālā",
+=======
+    "currency": "Samoan t\u0101l\u0101",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "capital": "Apia",
     "region": "Oceania",
     "passport_friendly": true,
@@ -3043,6 +3181,7 @@
     "name": "Algeria",
     "code": "DZ",
     "language": "Arabic",
+<<<<<<< HEAD
     "avg_temp": "Unknown",
     "currency": "Algerian dinar",
     "capital": "Algiers",
@@ -3055,6 +3194,20 @@
       "unsafe_areas": []
     },
     "tourist_attractions": [],
+=======
+    "avg_temp": "65°F",
+    "currency": "Algerian dinar",
+    "capital": "Algiers",
+    "region": "Africa",
+    "passport_friendly": "Must be valid for at least 6 months",
+    "budget": "$",
+    "food": ["Couscous", "Chakhchoukha","Chorba frik"],
+    "safety": {
+      "safe_areas": ["Constantine", "Oran", "Bejaia"],
+      "unsafe_areas": ["Djanet distric", "Illizi province", "Tamanrasset province"]
+    },
+    "tourist_attractions": ["Martyrs Memorial", "Botanical Garden Hamma", "Church of Notre Dame d'Afrique"],
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "transport_friendly": true,
     "image_url": "https://flagcdn.com/w320/dz.png",
     "times_visited": 0
@@ -3124,7 +3277,11 @@
     "code": "NI",
     "language": "Spanish",
     "avg_temp": "Unknown",
+<<<<<<< HEAD
     "currency": "Nicaraguan córdoba",
+=======
+    "currency": "Nicaraguan c\u00f3rdoba",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "capital": "Managua",
     "region": "Americas",
     "passport_friendly": true,
@@ -3162,7 +3319,11 @@
   {
     "name": "Jersey",
     "code": "JE",
+<<<<<<< HEAD
     "language": "English, French, Jèrriais",
+=======
+    "language": "English, French, J\u00e8rriais",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "avg_temp": "Unknown",
     "currency": "British pound, Jersey pound",
     "capital": "Saint Helier",
@@ -3205,7 +3366,11 @@
     "language": "Spanish",
     "avg_temp": "Unknown",
     "currency": "Colombian peso",
+<<<<<<< HEAD
     "capital": "Bogotá",
+=======
+    "capital": "Bogot\u00e1",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "region": "Americas",
     "passport_friendly": true,
     "budget": "$$",
@@ -3364,7 +3529,11 @@
     "code": "VE",
     "language": "Spanish",
     "avg_temp": "Unknown",
+<<<<<<< HEAD
     "currency": "Venezuelan bolívar soberano",
+=======
+    "currency": "Venezuelan bol\u00edvar soberano",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "capital": "Caracas",
     "region": "Americas",
     "passport_friendly": true,
@@ -3424,7 +3593,11 @@
     "code": "IS",
     "language": "Icelandic",
     "avg_temp": "Unknown",
+<<<<<<< HEAD
     "currency": "Icelandic króna",
+=======
+    "currency": "Icelandic kr\u00f3na",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "capital": "Reykjavik",
     "region": "Europe",
     "passport_friendly": true,
@@ -3477,7 +3650,11 @@
     "tourist_attractions": [],
     "transport_friendly": true,
     "image_url": "https://flagcdn.com/w320/us.png",
+<<<<<<< HEAD
     "times_visited": 0
+=======
+    "times_visited": 12
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
   },
   {
     "name": "Trinidad and Tobago",
@@ -3544,8 +3721,13 @@
     "code": "CR",
     "language": "Spanish",
     "avg_temp": "Unknown",
+<<<<<<< HEAD
     "currency": "Costa Rican colón",
     "capital": "San José",
+=======
+    "currency": "Costa Rican col\u00f3n",
+    "capital": "San Jos\u00e9",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "region": "Americas",
     "passport_friendly": true,
     "budget": "$$",
@@ -3804,7 +3986,11 @@
     "code": "VN",
     "language": "Vietnamese",
     "avg_temp": "Unknown",
+<<<<<<< HEAD
     "currency": "Vietnamese đồng",
+=======
+    "currency": "Vietnamese \u0111\u1ed3ng",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "capital": "Hanoi",
     "region": "Asia",
     "passport_friendly": true,
@@ -3842,7 +4028,11 @@
   {
     "name": "Guernsey",
     "code": "GG",
+<<<<<<< HEAD
     "language": "English, French, Guernésiais",
+=======
+    "language": "English, French, Guern\u00e9siais",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "avg_temp": "Unknown",
     "currency": "British pound, Guernsey pound",
     "capital": "St. Peter Port",
@@ -3905,7 +4095,11 @@
     "language": "French",
     "avg_temp": "Unknown",
     "currency": "CFP franc",
+<<<<<<< HEAD
     "capital": "Papeetē",
+=======
+    "capital": "Papeet\u0113",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "region": "Oceania",
     "passport_friendly": true,
     "budget": "$$",
@@ -4037,7 +4231,11 @@
     "tourist_attractions": [],
     "transport_friendly": true,
     "image_url": "https://flagcdn.com/w320/ng.png",
+<<<<<<< HEAD
     "times_visited": 0
+=======
+    "times_visited": 6
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
   },
   {
     "name": "Libya",
@@ -4102,10 +4300,17 @@
   {
     "name": "Paraguay",
     "code": "PY",
+<<<<<<< HEAD
     "language": "Guaraní, Spanish",
     "avg_temp": "Unknown",
     "currency": "Paraguayan guaraní",
     "capital": "Asunción",
+=======
+    "language": "Guaran\u00ed, Spanish",
+    "avg_temp": "Unknown",
+    "currency": "Paraguayan guaran\u00ed",
+    "capital": "Asunci\u00f3n",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "region": "Americas",
     "passport_friendly": true,
     "budget": "$$",
@@ -4180,7 +4385,11 @@
     "times_visited": 0
   },
   {
+<<<<<<< HEAD
     "name": "Réunion",
+=======
+    "name": "R\u00e9union",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "code": "RE",
     "language": "French",
     "avg_temp": "Unknown",
@@ -4402,7 +4611,11 @@
   {
     "name": "Bolivia",
     "code": "BO",
+<<<<<<< HEAD
     "language": "Aymara, Guaraní, Quechua, Spanish",
+=======
+    "language": "Aymara, Guaran\u00ed, Quechua, Spanish",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "avg_temp": "Unknown",
     "currency": "Bolivian boliviano",
     "capital": "Sucre",
@@ -4440,7 +4653,11 @@
     "times_visited": 0
   },
   {
+<<<<<<< HEAD
     "name": "DR Congo",
+=======
+    "name": "Democratic Republic of Congo",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "code": "CD",
     "language": "French, Kikongo, Lingala, Tshiluba, Swahili",
     "avg_temp": "Unknown",
@@ -4457,12 +4674,20 @@
     "tourist_attractions": [],
     "transport_friendly": true,
     "image_url": "https://flagcdn.com/w320/cd.png",
+<<<<<<< HEAD
     "times_visited": 0
+=======
+    "times_visited": 1
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
   },
   {
     "name": "Argentina",
     "code": "AR",
+<<<<<<< HEAD
     "language": "Guaraní, Spanish",
+=======
+    "language": "Guaran\u00ed, Spanish",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "avg_temp": "Unknown",
     "currency": "Argentine peso",
     "capital": "Buenos Aires",
@@ -4520,7 +4745,11 @@
     "times_visited": 0
   },
   {
+<<<<<<< HEAD
     "name": "Curaçao",
+=======
+    "name": "Cura\u00e7ao",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "code": "CW",
     "language": "English, Dutch, Papiamento",
     "avg_temp": "Unknown",
@@ -4642,7 +4871,11 @@
   {
     "name": "Norway",
     "code": "NO",
+<<<<<<< HEAD
     "language": "Norwegian Nynorsk, Norwegian Bokmål, Sami",
+=======
+    "language": "Norwegian Nynorsk, Norwegian Bokm\u00e5l, Sami",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "avg_temp": "Unknown",
     "currency": "Norwegian krone",
     "capital": "Oslo",
@@ -4940,7 +5173,11 @@
     "times_visited": 0
   },
   {
+<<<<<<< HEAD
     "name": "Saint Barthélemy",
+=======
+    "name": "Saint Barth\u00e9lemy",
+>>>>>>> a573c7e (Add styled country detail page and clickable country map routing)
     "code": "BL",
     "language": "French",
     "avg_temp": "Unknown",
